@@ -1,0 +1,15 @@
+name: phys150-env
+channels:
+  - conda-forge
+dependencies:
+#  - jupyter
+  - rise
+  - numpy
+  - scipy
+  - sympy
+  - matplotlib
+  - ffmpeg
+  - pip
+  - pip:
+    - jupyter-contrib-nbextensions
+    - jupyter-nbextensions_configurator
