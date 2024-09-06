@@ -1,18 +1,15 @@
 # PHYS:150 Introduction to Programming for Physics: A Freshmen Class
 
-Most of the lecture notes are written in Jupyter Notebooks and are fully interactive on 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/slxuphys/tamu_phys_150/HEAD)
-
-Try them out!
+Most of the lecture notes are written in Jupyter Notebooks and are fully interactive on google colab.
 
 ## Lectures
 
 - lecture 1: introduction to programming in physics
-- lecture 2: demonstrations and software installing
+- lecture 2: demonstrations and software installation
 - [lecture 3: markdown and LaTeX](https://nbviewer.org/github/slxuphys/tamu_phys_150/blob/master/lecture/lecture%2002%20markdown.ipynb)
-- [lecture 4&5: scalar variables](https://nbviewer.org/github/slxuphys/tamu_phys_150/blob/master/lecture/lecture%2004%20%26%205%20scalar%20variable.ipynb)
+- [lecture 4: scalar variables](https://nbviewer.org/github/slxuphys/tamu_phys_150/blob/master/lecture/lecture%2004%20%26%205%20scalar%20variable.ipynb)
+- [lecture 5: branching](https://nbviewer.org/github/slxuphys/tamu_phys_150/blob/master/lecture/lecture%2005%20branching.ipynb)
 - [lecture 6&7&8: containers](https://nbviewer.org/github/slxuphys/tamu_phys_150/blob/master/lecture/lecture%2006%267%268%20container.ipynb)
-- [lecture 9: branching](https://nbviewer.org/github/slxuphys/tamu_phys_150/blob/master/lecture/lecture%2009%20branching.ipynb)
 - [lecture 10&11: loop](https://nbviewer.org/github/slxuphys/tamu_phys_150/blob/master/lecture/lecture%2010%2611%20loop.ipynb)
 - [lecture 12&13&15: motion in a straightline](https://nbviewer.org/github/slxuphys/tamu_phys_150/blob/master/lecture/lecture%2012%2013%2015%20motion%20in%20straight%20line.ipynb) 
 - lecture 14: game party demonstration 👽⚔️🐉
