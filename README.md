@@ -10,6 +10,8 @@ Most of the lecture notes are written in Jupyter Notebooks and are fully interac
 - [lecture 4: scalar variables](./lecture/lecture%2004%20scalar%20variable.ipynb)
 - [lecture 5: branching](./lecture/lecture%2005%20branching.ipynb)
 - [lecture 6: Loop](./lecture/lecture%2006%20loop.ipynb)
+- [lecture 7: Containers](./lecture/lecture%2007%20container.ipynb)
+
 
 
 ## Gallary
