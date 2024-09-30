@@ -11,6 +11,7 @@ Most of the lecture notes are written in Jupyter Notebooks and are fully interac
 - [lecture 5: branching](./lecture/lecture%2005%20branching.ipynb)
 - [lecture 6: Loop](./lecture/lecture%2006%20loop.ipynb)
 - [lecture 7: Containers](./lecture/lecture%2007%20container.ipynb)
+- [lecture 7: Motion (1D)](./lecture/lecture%2008%201D_motion.ipynb)
 
 
 
