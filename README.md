@@ -14,6 +14,9 @@ Most of the lecture notes are written in Jupyter Notebooks and are fully interac
 - [lecture 8: Motion (1D)](./lecture/lecture%2008%201D_motion.ipynb)
 - [lecture 9: Function](./lecture/lecture%2009%20function.ipynb)
 - [lecture 10: Class](./lecture/lecture%2010%20Class.ipynb)
+- [lecture 11: Module](./lectue/lecture%2011%20Module.ipynb)
+- [lecture 12: Plot and Animation](./lectue/lecture%2011%20matplotlib.ipynb)
+
 
 
 
