@@ -15,15 +15,16 @@ Most of the lecture notes are written in Jupyter Notebooks and are fully interac
 - [lecture 9: Function](./lecture/lecture%2009%20function.ipynb)
 - [lecture 10: Class](./lecture/lecture%2010%20Class.ipynb)
 - [lecture 11: Module](./lectue/lecture%2011%20Module.ipynb)
-- [lecture 12: Plot and Animation](./lectue/lecture%2011%20matplotlib.ipynb)
+- [lecture 12: Plot and Animation](./lectue/lecture%2012%20matplotlib.ipynb)
+- [lecture 13: Planetary Motion](./lectue/lecture%2013%202D_motion.ipynb)
 
 
 
 
 
-## Gallary
+## Gallery
 
-After taking the course, you can aslo make these cool animations as well and learn the physics behind.
+After taking the course, you can also make these cool animations as well and learn the physics behind.
 
 ![fern](gallery/fern.gif)
 ![logistic](gallery/logistic_map.gif)
