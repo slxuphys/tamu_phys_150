@@ -17,6 +17,8 @@ Most of the lecture notes are written in Jupyter Notebooks and are fully interac
 - [lecture 11: Module](./lecture/lecture%2011%20Module.ipynb)
 - [lecture 12: Plot and Animation](./lecture/lecture%2012%20matplotlib.ipynb)
 - [lecture 13: Planetary Motion](./lecture/lecture%2013%202D_motion.ipynb)
+- [lecture 14: Optimization and Equation Solving](./lecture/lecture%2014%20optimization.ipynb)
+
 
 
 
