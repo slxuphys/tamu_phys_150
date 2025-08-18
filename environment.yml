@@ -1,0 +1,11 @@
+name: phys150-env
+channels:
+  - conda-forge
+dependencies:
+# - jupyter
+  - numpy
+  - scipy
+  - sympy
+  - matplotlib
+  - ffmpeg
+  
