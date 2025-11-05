@@ -16,9 +16,10 @@ Most of the lecture notes are written in Jupyter Notebooks and are fully interac
 - [lecture 10: Class](./lecture/lecture%2010%20Class.ipynb)
 - [lecture 11: Module](./lecture/lecture%2011%20Module.ipynb)
 - [lecture 12: Plot and Animation](./lecture/lecture%2012%20matplotlib.ipynb)
-- [lecture 13: Planetary Motion](./lecture/lecture%2013%202D_motion.ipynb) (The file is too big to show in github. Please download the notebook.)
-- [lecture 14: Optimization and Equation Solving](./lecture/lecture%2014%20optimization.ipynb)
-- [lecture 15: simple iteration and complex phenomena](./lecture/lecture%2015%20iteration.ipynb)
+- [lecture 13 data: Saving and Loading Data](./lecture/lecture%2013%20data.ipynb)
+- [lecture 14: Planetary Motion](./lecture/lecture%2014%202D_motion.ipynb) (The file is too big to show in github. Please download the notebook.)
+- [lecture 15: Optimization and Equation Solving](./lecture/lecture%2015%20optimization.ipynb)
+- [lecture 16: simple iteration and complex phenomena](./lecture/lecture%2016%20iteration.ipynb)
 
 
 
