@@ -4,7 +4,9 @@ Most of the lecture notes are written in Jupyter Notebooks and are fully interac
 
 ## Lectures
 
-- [lecture 1: introduction to programming in physics](./2026/lecture%2001%20introduction.ipynb)
+- [lecture 1: introduction to programming in physics](./2026/lecture-01-introduction.ipynb)
+- [lecture 2: programming for physics](./2026/lecture-02-programming-for-physics.ipynb)
+- [lecture 3: markdown](./2026/lecture-03-markdown.ipynb)
 
 
 
