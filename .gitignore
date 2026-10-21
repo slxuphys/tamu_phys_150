@@ -3,3 +3,4 @@
 .virtual_documents/
 ~$*.ppt*
 /secret/
+__pycache__/
