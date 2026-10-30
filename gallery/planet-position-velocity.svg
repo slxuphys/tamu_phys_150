@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="390" viewBox="0 0 760 390" role="img" aria-labelledby="title desc">
+  <title id="title">Planet position and velocity relative to a star at the origin</title>
+  <desc id="desc">The star is at the origin. A blue position vector points right to a planet at (1, 0). A green velocity vector at the planet points upward, representing initial velocity (0, 0.8).</desc>
+  <defs>
+    <marker id="axis" markerWidth="5" markerHeight="5" viewBox="0 0 8 8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#8893a2"/></marker>
+    <marker id="position" markerWidth="5" markerHeight="5" viewBox="0 0 9 9" refX="8" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#2563b0"/></marker>
+    <marker id="velocity" markerWidth="5" markerHeight="5" viewBox="0 0 9 9" refX="8" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#16804a"/></marker>
+  </defs>
+  <rect width="760" height="390" fill="white"/>
+  <g font-family="Arial, sans-serif" font-size="20" fill="#243244">
+    <path d="M75,265 H685" stroke="#8893a2" stroke-width="1.8" marker-end="url(#axis)"/>
+    <path d="M160,330 V45" stroke="#8893a2" stroke-width="1.8" marker-end="url(#axis)"/>
+    <text x="698" y="271" font-style="italic">x</text>
+    <text x="142" y="34" font-style="italic">y</text>
+    <path d="M160,265 H495" stroke="#2563b0" stroke-width="3.5" marker-end="url(#position)"/>
+    <text x="270" y="239" fill="#2563b0">Position r = (1, 0)</text>
+    <path d="M510,265 V80" stroke="#16804a" stroke-width="3.5" marker-end="url(#velocity)"/>
+    <text x="530" y="140" fill="#16804a">Velocity</text>
+    <text x="530" y="169" fill="#16804a">v = (0, 0.8)</text>
+    <circle cx="160" cy="265" r="15" fill="#f5b942" stroke="#b77713" stroke-width="2"/>
+    <circle cx="510" cy="265" r="13" fill="#4389cf" stroke="#205384" stroke-width="2"/>
+    <text x="91" y="305">Star / origin</text>
+    <text x="210" y="305">(0, 0)</text>
+    <text x="479" y="305">Planet</text>
+  </g>
+</svg>
